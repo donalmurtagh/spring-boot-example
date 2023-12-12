@@ -1,2 +1,2 @@
-# spring-bean-partial-mock
-Reproduce a problem that occurs when partially mocking a Spring bean
+# spring-boot-example
+A Spring Boot 3.2.0 repo
